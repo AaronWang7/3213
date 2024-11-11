@@ -1,0 +1,4 @@
+def Something(ppt):
+    ppt = input("Enter something:")
+    print (ppt + "adpjwpojd")
+Something("hi")
